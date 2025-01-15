@@ -12,7 +12,7 @@
    top: 0;
    right: -100%;
    transition: right .5s ease-in;
-   background: #222;
+   background: rgba(21, 72, 182, 0.97);
    width: 200px;
    z-index: 900;
 
