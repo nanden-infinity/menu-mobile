@@ -61,3 +61,20 @@ header {
     }
   }
 }
+
+section{
+  background: #ccc2;
+}
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 4.4rem 2rem;
+}
+.container h1{
+  padding: 10px;
+  border-left: 4px solid #922;
+  color: #333;
+  font-weight: bolder;
+  font-size: 2.4rem;
+  margin-bottom: 2rem;
+}
