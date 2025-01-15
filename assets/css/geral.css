@@ -79,3 +79,20 @@ section{
   font-size: 2.4rem;
   margin-bottom: 2rem;
 }
+
+
+a[data-link="comprar"]{
+  display: inline-block;
+  padding: 14px 28px;
+  background-color: #1a47da;
+  color: #fff;
+  font-size: 1.2rem;
+  margin-top: 2rem;
+  border-radius: 3px;
+  transition:  opacity .5s;
+}
+
+a[data-link="comprar"]:hover{
+  opacity: .9;
+  padding: 14px 33px;
+}

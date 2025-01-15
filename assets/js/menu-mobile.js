@@ -15,3 +15,4 @@ export default function  initmenuMobile(){
  }
   eventos.forEach(evento)
 }
+
