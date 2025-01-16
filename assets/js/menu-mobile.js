@@ -16,3 +16,16 @@ export default function  initmenuMobile(){
   eventos.forEach(evento)
 }
 
+function Dom(selector){
+  const element = document.querySelector(selector);
+    element.classList.add('active')
+ 
+}
+
+
+const li = new Dom('li')
+
+
+console.log(Dom('a'))
+
+
