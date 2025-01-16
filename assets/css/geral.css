@@ -202,8 +202,9 @@ label,input{
   padding-left: 44rem;
   padding: 6rem;
   height: 20rem;
-  background: linear-gradient(45deg, rgb(98, 37, 168) 0%, rgba(86, 5, 141, 0.87) 90%);
+  background: linear-gradient(45deg, rgb(216, 110, 22) 0%, rgba(224, 190, 38, 0.87) 90%);
   border-radius: 9px;
+  color: #fff;
 }
 .imag{
 height: 200px;
