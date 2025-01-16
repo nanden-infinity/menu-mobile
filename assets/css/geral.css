@@ -40,7 +40,7 @@ header {
           display: none;
           padding: 10px;
           border: none;
-          background: #fab005;
+          background: #08af31;
           color: #fff;
           font-size: 1rem;
           border-radius: 5px;
@@ -84,7 +84,7 @@ section{
 a[data-link="comprar"]{
   display: inline-block;
   padding: 14px 28px;
-  background-color: #fab005;
+  background-color: #10a349;
   color: #fff;
   font-size: 1.2rem;
   margin-top: 2rem;
@@ -202,9 +202,10 @@ label,input{
   padding-left: 44rem;
   padding: 6rem;
   height: 20rem;
-  background: linear-gradient(45deg, rgb(216, 110, 22) 0%, rgba(224, 190, 38, 0.87) 90%);
+  background: linear-gradient(45deg, rgb(52, 131, 56) 0%, rgba(12, 131, 8, 0.87) 90%);
   border-radius: 9px;
   color: #fff;
+  
 }
 .imag{
 height: 200px;
